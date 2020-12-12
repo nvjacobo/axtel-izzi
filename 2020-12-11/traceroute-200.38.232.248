@@ -1,0 +1,31 @@
+traceroute to 200.38.232.248 (200.38.232.248), 30 hops max, 60 byte packets
+ 1  192.168.15.1 (192.168.15.1)  0.686 ms  0.625 ms  0.717 ms
+ 2  187-162-16-3.static.axtel.net (187.162.16.3)  3.166 ms  3.810 ms  3.679 ms
+ 3  189-209-118-98.static.axtel.net (189.209.118.98)  25.278 ms  25.338 ms  25.265 ms
+ 4  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  4.920 ms  5.077 ms  5.299 ms
+ 5  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  24.519 ms  24.588 ms  24.561 ms
+ 6  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  4.925 ms  10.265 ms  10.208 ms
+ 7  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  19.200 ms  15.926 ms  16.214 ms
+ 8  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  6.860 ms  11.740 ms  11.993 ms
+ 9  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  15.971 ms  16.203 ms  11.519 ms
+10  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  6.455 ms  5.940 ms  3.544 ms
+11  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  5.251 ms  5.662 ms  5.467 ms
+12  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  4.342 ms  4.988 ms  4.913 ms
+13  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  32.379 ms  32.572 ms  32.762 ms
+14  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  5.613 ms  5.895 ms  6.251 ms
+15  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  32.671 ms  32.878 ms  33.086 ms
+16  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  5.858 ms  5.761 ms  5.056 ms
+17  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  33.182 ms  33.927 ms  34.100 ms
+18  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  6.527 ms  5.656 ms  5.533 ms
+19  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  32.517 ms  33.110 ms  33.276 ms
+20  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  10.868 ms  8.796 ms  8.985 ms
+21  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  28.587 ms  20.820 ms  21.513 ms
+22  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  6.487 ms  7.937 ms  6.175 ms
+23  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  8.567 ms  8.855 ms  8.844 ms
+24  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  7.482 ms  7.549 ms  12.762 ms
+25  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  37.920 ms  38.343 ms  38.907 ms
+26  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  17.607 ms  23.564 ms  23.815 ms
+27  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  39.002 ms  39.418 ms  31.861 ms
+28  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  15.962 ms  16.478 ms  16.694 ms
+29  serv-red-189-205-160-94.mexdf.static.axtel.net (189.205.160.94)  31.738 ms  32.092 ms  32.086 ms
+30  serv-red-189-205-160-93.mexdf.static.axtel.net (189.205.160.93)  12.732 ms  7.838 ms  12.821 ms
