@@ -1,0 +1,8 @@
+PING 187.162.71.244 (187.162.71.244) 56(84) bytes of data.
+64 bytes from 187.162.71.244: icmp_seq=1 ttl=61 time=2.36 ms
+64 bytes from 187.162.71.244: icmp_seq=2 ttl=61 time=2.99 ms
+64 bytes from 187.162.71.244: icmp_seq=3 ttl=61 time=2.83 ms
+^C
+--- 187.162.71.244 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 5ms
+rtt min/avg/max/mdev = 2.364/2.727/2.990/0.268 ms
